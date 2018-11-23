@@ -37,7 +37,7 @@ Retrieved the entire dataset videos and converted statistical information into a
 The dataset included a total of:
 <br>
 __596 videos__
-<br<
+<br>
 __2250365 words__
 
 ### 2.3 Step III: Spin up a VM instance on the Google Cloud Platform
@@ -97,14 +97,14 @@ Likes/Ratings is a strong performance indicator to decide whether or not people 
 
 ## 4.0 Recommendations
 
-1. __Increase positivity of videos at the beginning to improve User Retention__
+I. __Increase positivity of videos at the beginning to improve User Retention__
 <br>
 New viewers tend to judge videos very early on and would bounce out of the video if it is uninteresting. If a user opens a Travis video and he always appears unenthusiastic, then it may be hard to attain further viewers. Furthermore, even for loyal viewers, if Travis is only enthusiastic while promoting sponsors, he may be deemed in a negative light over time.
 
-2. __Collaborate with Influencers; don't just interview Pros__
+II. __Collaborate with Influencers; don't just interview Pros__
 <br>
 In the eSports scene, the usually the people with most followers are influencers (Twitch Streamers). These influencers have followers upwards of 1M+ , while Pros usually hover around 300K. Travis' primary product are interviews with Pros; while this is good for the industry, it will be hard to reach out to further audiences. By collaborating with influencers, Travis can move outside of his primary market and gain exposure to markets who may have never heard of Travis before to spark interest. Despite Travis' high quality videos (as determined by ratings) and well-balanced content, I suspect his viewership primarily revolves around returning patrons, instead of fresh viewers. By collaborating and effectively showing his content to new viewers, this will increase the volume of traffic from previously unaware users. As shown in the _Views over time_ Graph, it is evident he has clear "home-run" videos. But those are not at random; they were all in collaboration with influencers which significantly boosted viewership. Yet, Travis does not have many influencer video products. Thus, expanding his product line is highly recommended.
 
-3. __Be wary of large Corporations; stay true to the brand__
+III. __Be wary of large Corporations; stay true to the brand__
 <br>
 eSports is massive industry, with large companies taking over the space rapidly. As a small freelancer, if Travis is unable to produce content that meets the production value, speed, and scale of these large companies, Travis will be swallowed. The most unique selling point of Travis' product is the personal one-on-one relationship he has with his interviewees. Maintaining the fun and light-hearted atmosphere where professional corporations cannot will be a strong value proposition for Travis.
