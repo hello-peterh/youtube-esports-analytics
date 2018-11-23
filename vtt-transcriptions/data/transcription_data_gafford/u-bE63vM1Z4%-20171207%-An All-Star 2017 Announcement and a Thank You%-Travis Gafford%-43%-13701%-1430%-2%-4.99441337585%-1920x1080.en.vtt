@@ -1,0 +1,190 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.030 --> 00:00:02.480 align:start position:0%
+ 
+hello<00:00:00.390><c> everyone</c><c.colorE5E5E5><00:00:00.659><c> I</c></c><c.colorCCCCCC><00:00:00.690><c> am</c><00:00:00.900><c> at</c><00:00:01.079><c> the</c><00:00:01.170><c> NA</c><00:00:01.560><c> LCS</c><00:00:01.589><c> studio</c></c>
+
+00:00:02.480 --> 00:00:02.490 align:start position:0%
+hello everyone<c.colorE5E5E5> I</c><c.colorCCCCCC> am at the NA LCS studio
+ </c>
+
+00:00:02.490 --> 00:00:04.519 align:start position:0%
+hello everyone<c.colorE5E5E5> I</c><c.colorCCCCCC> am at the NA LCS studio</c>
+<c.colorE5E5E5>returning<00:00:03.449><c> after</c></c><c.colorCCCCCC><00:00:03.600><c> a</c><00:00:03.810><c> couple</c></c><c.colorE5E5E5><00:00:04.049><c> months</c><00:00:04.410><c> for</c></c>
+
+00:00:04.519 --> 00:00:04.529 align:start position:0%
+<c.colorE5E5E5>returning after</c><c.colorCCCCCC> a couple</c><c.colorE5E5E5> months for
+ </c>
+
+00:00:04.529 --> 00:00:05.780 align:start position:0%
+<c.colorE5E5E5>returning after</c><c.colorCCCCCC> a couple</c><c.colorE5E5E5> months for
+something<00:00:04.859><c> very</c><00:00:05.040><c> exciting</c><00:00:05.250><c> which</c><00:00:05.460><c> I</c><00:00:05.549><c> will</c><00:00:05.700><c> get</c></c>
+
+00:00:05.780 --> 00:00:05.790 align:start position:0%
+something<c.colorE5E5E5> very exciting which I will get
+ </c>
+
+00:00:05.790 --> 00:00:07.610 align:start position:0%
+something<c.colorE5E5E5> very exciting which I will get</c>
+<c.colorE5E5E5>to<00:00:05.879><c> in</c><00:00:06.000><c> just</c></c><c.colorCCCCCC><00:00:06.029><c> a</c><00:00:06.390><c> moment</c><00:00:06.720><c> but</c></c><c.colorE5E5E5><00:00:07.140><c> first</c><00:00:07.259><c> I</c><00:00:07.410><c> want</c><00:00:07.589><c> to</c></c>
+
+00:00:07.610 --> 00:00:07.620 align:start position:0%
+<c.colorE5E5E5>to in just</c><c.colorCCCCCC> a moment but</c><c.colorE5E5E5> first I want to
+ </c>
+
+00:00:07.620 --> 00:00:09.169 align:start position:0%
+<c.colorE5E5E5>to in just</c><c.colorCCCCCC> a moment but</c><c.colorE5E5E5> first I want to</c>
+<c.colorCCCCCC>thank<00:00:07.830><c> all</c><00:00:07.950><c> of</c><00:00:07.980><c> you</c><00:00:08.160><c> because</c><00:00:08.429><c> I</c><00:00:08.519><c> just</c><00:00:08.730><c> hit</c><00:00:09.000><c> a</c></c>
+
+00:00:09.169 --> 00:00:09.179 align:start position:0%
+<c.colorCCCCCC>thank all of you because I just hit a
+ </c>
+
+00:00:09.179 --> 00:00:11.120 align:start position:0%
+<c.colorCCCCCC>thank all of you because I just hit a
+hundred</c><c.colorE5E5E5><00:00:09.750><c> thousand</c><00:00:10.380><c> subs</c><00:00:10.650><c> this</c><00:00:10.830><c> morning</c></c>
+
+00:00:11.120 --> 00:00:11.130 align:start position:0%
+hundred<c.colorE5E5E5> thousand subs this morning
+ </c>
+
+00:00:11.130 --> 00:00:12.589 align:start position:0%
+hundred<c.colorE5E5E5> thousand subs this morning
+shortly<00:00:11.219><c> after</c><00:00:11.639><c> I</c><00:00:11.670><c> woke</c><00:00:11.849><c> up</c><00:00:12.030><c> it's</c><00:00:12.509><c> an</c></c>
+
+00:00:12.589 --> 00:00:12.599 align:start position:0%
+shortly<c.colorE5E5E5> after I woke up it's an
+ </c>
+
+00:00:12.599 --> 00:00:14.240 align:start position:0%
+shortly<c.colorE5E5E5> after I woke up it's an
+important<00:00:13.019><c> milestone</c></c><c.colorCCCCCC><00:00:13.110><c> for</c><00:00:13.559><c> me</c></c><c.colorE5E5E5><00:00:13.620><c> as</c><00:00:13.769><c> I</c><00:00:13.830><c> continue</c></c>
+
+00:00:14.240 --> 00:00:14.250 align:start position:0%
+important milestone<c.colorCCCCCC> for me</c><c.colorE5E5E5> as I continue
+ </c>
+
+00:00:14.250 --> 00:00:16.070 align:start position:0%
+important milestone<c.colorCCCCCC> for me</c><c.colorE5E5E5> as I continue</c>
+<c.colorCCCCCC>to<00:00:14.400><c> explore</c></c><c.colorE5E5E5><00:00:14.730><c> you</c><00:00:15.389><c> know</c><00:00:15.420><c> the</c><00:00:15.630><c> world</c><00:00:15.839><c> of</c></c>
+
+00:00:16.070 --> 00:00:16.080 align:start position:0%
+<c.colorCCCCCC>to explore</c><c.colorE5E5E5> you know the world of
+ </c>
+
+00:00:16.080 --> 00:00:18.349 align:start position:0%
+<c.colorCCCCCC>to explore</c><c.colorE5E5E5> you know the world of
+independent<00:00:16.350><c> content</c><00:00:17.070><c> creation</c><00:00:17.460><c> and</c><00:00:17.820><c> all</c><00:00:18.240><c> of</c></c>
+
+00:00:18.349 --> 00:00:18.359 align:start position:0%
+independent<c.colorE5E5E5> content creation and all of
+ </c>
+
+00:00:18.359 --> 00:00:20.750 align:start position:0%
+independent<c.colorE5E5E5> content creation and all of
+your<00:00:18.510><c> support</c><00:00:18.869><c> is</c><00:00:19.050><c> so</c><00:00:19.260><c> helpful</c></c><c.colorCCCCCC><00:00:19.800><c> and</c><00:00:20.130><c> speaking</c></c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+your<c.colorE5E5E5> support is so helpful</c><c.colorCCCCCC> and speaking
+ </c>
+
+00:00:20.760 --> 00:00:21.200 align:start position:0%
+your<c.colorE5E5E5> support is so helpful</c><c.colorCCCCCC> and speaking</c>
+<c.colorCCCCCC>of<00:00:20.850><c> support</c></c>
+
+00:00:21.200 --> 00:00:21.210 align:start position:0%
+<c.colorCCCCCC>of support
+ </c>
+
+00:00:21.210 --> 00:00:23.750 align:start position:0%
+<c.colorCCCCCC>of support
+I<00:00:21.270><c> want</c><00:00:21.480><c> to</c><00:00:21.570><c> thank</c><00:00:21.779><c> HTC</c><00:00:22.769><c> eSports</c><00:00:23.279><c> for</c><00:00:23.490><c> being</c><00:00:23.670><c> my</c></c>
+
+00:00:23.750 --> 00:00:23.760 align:start position:0%
+I want to thank HTC eSports for being my
+ 
+
+00:00:23.760 --> 00:00:26.330 align:start position:0%
+I want to thank HTC eSports for being my
+official<00:00:24.240><c> partner</c><00:00:24.630><c> here</c><00:00:24.960><c> at</c><c.colorCCCCCC><00:00:25.289><c> All</c><00:00:25.590><c> Stars</c><00:00:25.890><c> this</c></c>
+
+00:00:26.330 --> 00:00:26.340 align:start position:0%
+official partner here at<c.colorCCCCCC> All Stars this
+ </c>
+
+00:00:26.340 --> 00:00:27.769 align:start position:0%
+official partner here at<c.colorCCCCCC> All Stars this
+year<00:00:26.699><c> so</c><00:00:26.880><c> all</c></c><c.colorE5E5E5><00:00:26.910><c> weekend</c><00:00:27.359><c> long</c><00:00:27.449><c> I'll</c><00:00:27.660><c> have</c></c>
+
+00:00:27.769 --> 00:00:27.779 align:start position:0%
+year so all<c.colorE5E5E5> weekend long I'll have
+ </c>
+
+00:00:27.779 --> 00:00:29.450 align:start position:0%
+year so all<c.colorE5E5E5> weekend long I'll have
+content<00:00:28.140><c> going</c><00:00:28.289><c> up</c><00:00:28.470><c> on</c><00:00:28.740><c> the</c><00:00:29.130><c> YouTube</c></c><c.colorCCCCCC><00:00:29.250><c> channel</c></c>
+
+00:00:29.450 --> 00:00:29.460 align:start position:0%
+content going<c.colorE5E5E5> up on the YouTube</c><c.colorCCCCCC> channel
+ </c>
+
+00:00:29.460 --> 00:00:31.519 align:start position:0%
+content going<c.colorE5E5E5> up on the YouTube</c><c.colorCCCCCC> channel
+all<00:00:29.970><c> made</c><00:00:30.119><c> possible</c><00:00:30.150><c> by</c><00:00:30.689><c> them</c><00:00:31.199><c> as</c><00:00:31.380><c> they</c></c>
+
+00:00:31.519 --> 00:00:31.529 align:start position:0%
+<c.colorCCCCCC>all made possible by them as they
+ </c>
+
+00:00:31.529 --> 00:00:33.290 align:start position:0%
+<c.colorCCCCCC>all made possible by them as they</c>
+<c.colorE5E5E5>support<00:00:31.890><c> me</c></c><c.colorCCCCCC><00:00:31.980><c> and</c><00:00:32.309><c> my</c><00:00:32.489><c> independent</c></c><c.colorE5E5E5><00:00:33.030><c> endeavor</c></c>
+
+00:00:33.290 --> 00:00:33.300 align:start position:0%
+<c.colorE5E5E5>support me</c><c.colorCCCCCC> and my independent</c><c.colorE5E5E5> endeavor
+ </c>
+
+00:00:33.300 --> 00:00:35.810 align:start position:0%
+<c.colorE5E5E5>support me</c><c.colorCCCCCC> and my independent</c><c.colorE5E5E5> endeavor
+so<00:00:33.570><c> thank</c><00:00:34.020><c> you</c><00:00:34.140><c> so</c></c><c.colorCCCCCC><00:00:34.170><c> much</c><00:00:34.469><c> to</c><00:00:34.739><c> HTC</c><00:00:35.219><c> eSports</c></c><c.colorE5E5E5><00:00:35.670><c> and</c></c>
+
+00:00:35.810 --> 00:00:35.820 align:start position:0%
+so<c.colorE5E5E5> thank you so</c><c.colorCCCCCC> much to HTC eSports</c><c.colorE5E5E5> and
+ </c>
+
+00:00:35.820 --> 00:00:37.700 align:start position:0%
+so<c.colorE5E5E5> thank you so</c><c.colorCCCCCC> much to HTC eSports</c><c.colorE5E5E5> and
+thank<00:00:36.239><c> you</c><00:00:36.360><c> all</c><00:00:36.540><c> for</c><00:00:36.570><c> subbing</c><00:00:37.020><c> looking</c></c>
+
+00:00:37.700 --> 00:00:37.710 align:start position:0%
+thank you all for subbing looking
+ 
+
+00:00:37.710 --> 00:00:39.200 align:start position:0%
+thank you all for subbing looking
+forward<00:00:37.980><c> to</c><00:00:38.040><c> seeing</c><00:00:38.250><c> all</c><c.colorE5E5E5><00:00:38.460><c> the</c><00:00:38.520><c> action</c><00:00:39.000><c> as</c><00:00:39.180><c> it</c></c>
+
+00:00:39.200 --> 00:00:39.210 align:start position:0%
+forward to seeing all<c.colorE5E5E5> the action as it
+ </c>
+
+00:00:39.210 --> 00:00:40.819 align:start position:0%
+forward to seeing all<c.colorE5E5E5> the action as it</c>
+<c.colorCCCCCC>goes<00:00:39.480><c> through</c><00:00:39.510><c> over</c><00:00:40.290><c> the</c></c><c.colorE5E5E5><00:00:40.379><c> next</c><00:00:40.559><c> couple</c><00:00:40.710><c> of</c></c>
+
+00:00:40.819 --> 00:00:40.829 align:start position:0%
+<c.colorCCCCCC>goes through over the</c><c.colorE5E5E5> next couple of
+ </c>
+
+00:00:40.829 --> 00:00:44.180 align:start position:0%
+<c.colorCCCCCC>goes through over the</c><c.colorE5E5E5> next couple of
+days<00:00:40.950><c> here</c><00:00:41.340><c> at</c></c><c.colorCCCCCC><00:00:41.520><c> Allstars</c></c>
+

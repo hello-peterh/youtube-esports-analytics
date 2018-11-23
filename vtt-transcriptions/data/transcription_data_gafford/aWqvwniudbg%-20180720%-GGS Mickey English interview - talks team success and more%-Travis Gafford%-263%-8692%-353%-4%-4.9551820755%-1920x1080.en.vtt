@@ -1,0 +1,614 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:05.029 --> 00:00:07.700 align:start position:0%
+ 
+well<00:00:06.029><c> it's</c><00:00:06.120><c> the</c><c.colorE5E5E5><00:00:06.180><c> fourth</c><00:00:06.390><c> week</c></c><c.colorCCCCCC><00:00:06.569><c> of</c><00:00:06.750><c> na</c><00:00:07.140><c> LCS</c><00:00:07.290><c> with</c></c>
+
+00:00:07.700 --> 00:00:07.710 align:start position:0%
+well it's the<c.colorE5E5E5> fourth week</c><c.colorCCCCCC> of na LCS with
+ </c>
+
+00:00:07.710 --> 00:00:09.230 align:start position:0%
+well it's the<c.colorE5E5E5> fourth week</c><c.colorCCCCCC> of na LCS with
+covers<00:00:07.980><c> presented</c><00:00:08.400><c> by</c><00:00:08.490><c> Omni</c><00:00:08.820><c> slash</c></c><c.colorE5E5E5><00:00:09.030><c> I'm</c></c>
+
+00:00:09.230 --> 00:00:09.240 align:start position:0%
+covers presented by Omni<c.colorCCCCCC> slash</c><c.colorE5E5E5> I'm
+ </c>
+
+00:00:09.240 --> 00:00:11.270 align:start position:0%
+covers presented by Omni<c.colorCCCCCC> slash</c><c.colorE5E5E5> I'm
+joined<00:00:09.599><c> right</c><00:00:09.840><c> now</c><00:00:09.960><c> by</c><00:00:10.200><c> Mickey</c><00:00:10.950><c> from</c><00:00:11.099><c> gone</c></c>
+
+00:00:11.270 --> 00:00:11.280 align:start position:0%
+joined<c.colorE5E5E5> right now by Mickey from gone
+ </c>
+
+00:00:11.280 --> 00:00:13.459 align:start position:0%
+joined<c.colorE5E5E5> right now by Mickey from gone
+guardians<00:00:11.820><c> to</c><00:00:12.360><c> talk</c><00:00:12.540><c> about</c><00:00:12.809><c> how</c><00:00:13.019><c> things</c></c><c.colorCCCCCC><00:00:13.320><c> have</c></c>
+
+00:00:13.459 --> 00:00:13.469 align:start position:0%
+<c.colorE5E5E5>guardians to talk about how things</c><c.colorCCCCCC> have
+ </c>
+
+00:00:13.469 --> 00:00:16.970 align:start position:0%
+<c.colorE5E5E5>guardians to talk about how things</c><c.colorCCCCCC> have
+been<00:00:13.590><c> going</c></c><c.colorE5E5E5><00:00:14.089><c> Mickey</c><00:00:15.089><c> we</c><00:00:15.330><c> are</c><00:00:15.509><c> four</c><00:00:15.990><c> weeks</c></c><c.colorCCCCCC><00:00:16.020><c> into</c></c>
+
+00:00:16.970 --> 00:00:16.980 align:start position:0%
+<c.colorCCCCCC>been going</c><c.colorE5E5E5> Mickey we are four weeks</c><c.colorCCCCCC> into
+ </c>
+
+00:00:16.980 --> 00:00:21.800 align:start position:0%
+<c.colorCCCCCC>been going</c><c.colorE5E5E5> Mickey we are four weeks</c><c.colorCCCCCC> into
+na<00:00:17.460><c> LCS</c></c><c.colorE5E5E5><00:00:18.170><c> with</c><00:00:19.170><c> you</c><00:00:19.680><c> on</c><00:00:19.859><c> golden</c><00:00:20.520><c> Guardians</c><00:00:20.910><c> how</c></c>
+
+00:00:21.800 --> 00:00:21.810 align:start position:0%
+na LCS<c.colorE5E5E5> with you on golden Guardians how
+ </c>
+
+00:00:21.810 --> 00:00:24.500 align:start position:0%
+na LCS<c.colorE5E5E5> with you on golden Guardians how
+do<00:00:21.869><c> you</c><00:00:22.170><c> feel</c><00:00:22.470><c> about</c></c><c.colorCCCCCC><00:00:22.730><c> golden</c><00:00:23.730><c> Guardians</c><00:00:24.150><c> right</c></c>
+
+00:00:24.500 --> 00:00:24.510 align:start position:0%
+do you feel about<c.colorCCCCCC> golden Guardians right
+ </c>
+
+00:00:24.510 --> 00:00:29.330 align:start position:0%
+do you feel about<c.colorCCCCCC> golden Guardians right
+now</c><c.colorE5E5E5><00:00:25.699><c> we</c><00:00:26.699><c> are</c><00:00:26.789><c> not</c><00:00:27.269><c> good</c><00:00:27.630><c> score</c><00:00:27.900><c> now</c><00:00:28.199><c> driven</c></c><c.colorCCCCCC><00:00:28.740><c> for</c></c>
+
+00:00:29.330 --> 00:00:29.340 align:start position:0%
+now<c.colorE5E5E5> we are not good score now driven</c><c.colorCCCCCC> for
+ </c>
+
+00:00:29.340 --> 00:00:35.430 align:start position:0%
+now<c.colorE5E5E5> we are not good score now driven</c><c.colorCCCCCC> for
+us<00:00:29.580><c> I</c><00:00:30.510><c> think</c><00:00:31.410><c> we</c><00:00:31.710><c> are</c><00:00:32.300><c> we're</c></c><c.colorE5E5E5><00:00:33.300><c> doing</c><00:00:33.600><c> well</c><00:00:33.899><c> now</c></c>
+
+00:00:35.430 --> 00:00:35.440 align:start position:0%
+us<c.colorCCCCCC> I think we are we're</c><c.colorE5E5E5> doing well now
+ </c>
+
+00:00:35.440 --> 00:00:37.479 align:start position:0%
+us<c.colorCCCCCC> I think we are we're</c><c.colorE5E5E5> doing well now
+[Music]</c>
+
+00:00:37.479 --> 00:00:37.489 align:start position:0%
+[Music]
+ 
+
+00:00:37.489 --> 00:00:41.900 align:start position:0%
+[Music]
+last<00:00:38.600><c> year</c><00:00:39.600><c> or</c><c.colorE5E5E5><00:00:39.930><c> last</c><00:00:40.290><c> split</c><00:00:40.950><c> golden</c><00:00:41.460><c> Guardians</c></c>
+
+00:00:41.900 --> 00:00:41.910 align:start position:0%
+last year or<c.colorE5E5E5> last split golden Guardians
+ </c>
+
+00:00:41.910 --> 00:00:45.229 align:start position:0%
+last year or<c.colorE5E5E5> last split golden Guardians
+got<00:00:42.210><c> last</c><00:00:42.809><c> place</c><00:00:43.170><c> but</c><00:00:44.129><c> you</c><00:00:44.280><c> just</c><00:00:44.489><c> beat</c><00:00:44.789><c> clutch</c></c>
+
+00:00:45.229 --> 00:00:45.239 align:start position:0%
+got last<c.colorE5E5E5> place but you just beat clutch
+ </c>
+
+00:00:45.239 --> 00:00:48.560 align:start position:0%
+got last<c.colorE5E5E5> place but you just beat clutch
+how<00:00:46.170><c> do</c><00:00:46.230><c> you</c><00:00:46.440><c> feel</c></c><c.colorCCCCCC><00:00:46.800><c> golden</c><00:00:47.730><c> Guardians</c><00:00:48.149><c> will</c><00:00:48.390><c> do</c></c>
+
+00:00:48.560 --> 00:00:48.570 align:start position:0%
+<c.colorE5E5E5>how do you feel</c><c.colorCCCCCC> golden Guardians will do
+ </c>
+
+00:00:48.570 --> 00:00:55.750 align:start position:0%
+<c.colorE5E5E5>how do you feel</c><c.colorCCCCCC> golden Guardians will do
+this<00:00:49.020><c> split</c><00:00:49.350><c> I</c><00:00:50.059><c> think</c><00:00:51.059><c> we</c><00:00:51.210><c> can</c><00:00:51.449><c> go</c><00:00:51.899><c> play</c><00:00:54.320><c> okay</c></c>
+
+00:00:55.750 --> 00:00:55.760 align:start position:0%
+this split I think we can go play<c.colorCCCCCC> okay
+ </c>
+
+00:00:55.760 --> 00:01:00.830 align:start position:0%
+this split I think we can go play<c.colorCCCCCC> okay
+what<00:00:57.170><c> what</c><00:00:58.170><c> is</c></c><c.colorE5E5E5><00:00:58.320><c> it</c><00:00:58.680><c> like</c></c><c.colorCCCCCC><00:00:58.920><c> for</c><00:00:59.219><c> you</c></c><c.colorE5E5E5><00:00:59.840><c> speaking</c></c>
+
+00:01:00.830 --> 00:01:00.840 align:start position:0%
+what what is<c.colorE5E5E5> it like</c><c.colorCCCCCC> for you</c><c.colorE5E5E5> speaking
+ </c>
+
+00:01:00.840 --> 00:01:03.290 align:start position:0%
+what what is<c.colorE5E5E5> it like</c><c.colorCCCCCC> for you</c><c.colorE5E5E5> speaking</c>
+<c.colorCCCCCC>English<00:01:01.500><c> with</c><00:01:01.800><c> all</c><00:01:02.190><c> the</c><00:01:02.340><c> other</c><00:01:02.489><c> players</c><00:01:02.850><c> how's</c></c>
+
+00:01:03.290 --> 00:01:03.300 align:start position:0%
+<c.colorCCCCCC>English with all the other players how's
+ </c>
+
+00:01:03.300 --> 00:01:06.380 align:start position:0%
+<c.colorCCCCCC>English with all the other players how's
+your<00:01:03.570><c> English</c></c><c.colorE5E5E5><00:01:03.780><c> and</c><00:01:04.290><c> can</c><00:01:05.280><c> you</c><00:01:05.549><c> understand</c></c>
+
+00:01:06.380 --> 00:01:06.390 align:start position:0%
+your English<c.colorE5E5E5> and can you understand
+ </c>
+
+00:01:06.390 --> 00:01:11.510 align:start position:0%
+your English<c.colorE5E5E5> and can you understand
+everything<00:01:06.840><c> in</c><00:01:07.170><c> game</c><00:01:07.409><c> oh</c><00:01:07.850><c> I</c><00:01:09.799><c> can't</c><00:01:10.799><c> understand</c></c>
+
+00:01:11.510 --> 00:01:11.520 align:start position:0%
+everything in game<c.colorE5E5E5> oh I can't understand
+ </c>
+
+00:01:11.520 --> 00:01:15.499 align:start position:0%
+everything in game<c.colorE5E5E5> oh I can't understand
+what<00:01:11.760><c> what</c><00:01:12.360><c> they</c><00:01:12.570><c> are</c><00:01:12.659><c> say</c><00:01:13.010><c> well</c><00:01:14.010><c> I</c><00:01:14.509><c> can't</c></c>
+
+00:01:15.499 --> 00:01:15.509 align:start position:0%
+what what they are say well I can't
+ 
+
+00:01:15.509 --> 00:01:18.590 align:start position:0%
+what what they are say well I can't
+speak<c.colorCCCCCC><00:01:15.659><c> very</c><00:01:16.229><c> well</c><00:01:16.790><c> well</c><00:01:17.790><c> I</c><00:01:17.820><c> can't</c><00:01:18.180><c> understand</c></c>
+
+00:01:18.590 --> 00:01:18.600 align:start position:0%
+speak<c.colorCCCCCC> very well well I can't understand
+ </c>
+
+00:01:18.600 --> 00:01:19.730 align:start position:0%
+speak<c.colorCCCCCC> very well well I can't understand</c>
+<c.colorE5E5E5>everything<00:01:18.990><c> yeah</c></c>
+
+00:01:19.730 --> 00:01:19.740 align:start position:0%
+<c.colorE5E5E5>everything yeah
+ </c>
+
+00:01:19.740 --> 00:01:22.850 align:start position:0%
+<c.colorE5E5E5>everything yeah
+do<00:01:20.610><c> you</c><00:01:20.700><c> just</c><00:01:20.909><c> say</c><00:01:21.180><c> simple</c><00:01:21.840><c> things</c><00:01:22.110><c> in</c><00:01:22.500><c> game</c></c>
+
+00:01:22.850 --> 00:01:22.860 align:start position:0%
+do you just<c.colorE5E5E5> say simple things in game
+ </c>
+
+00:01:22.860 --> 00:01:29.920 align:start position:0%
+do you just<c.colorE5E5E5> say simple things in game
+like<00:01:23.159><c> dragon</c><00:01:24.000><c> dragon</c><00:01:24.420><c> or</c><00:01:24.630><c> Caitlyn</c><00:01:25.470><c> Caitlyn</c></c>
+
+00:01:29.920 --> 00:01:29.930 align:start position:0%
+ 
+ 
+
+00:01:29.930 --> 00:01:34.160 align:start position:0%
+ 
+but<00:01:30.930><c> my</c><00:01:31.290><c> team</c><c.colorE5E5E5><00:01:31.530><c> understand</c><00:01:32.369><c> me</c><00:01:32.900><c> how</c><00:01:33.900><c> do</c><00:01:33.960><c> you</c></c>
+
+00:01:34.160 --> 00:01:34.170 align:start position:0%
+but my team<c.colorE5E5E5> understand me how do you
+ </c>
+
+00:01:34.170 --> 00:01:35.120 align:start position:0%
+but my team<c.colorE5E5E5> understand me how do you</c>
+<c.colorE5E5E5>feel</c>
+
+00:01:35.120 --> 00:01:35.130 align:start position:0%
+<c.colorE5E5E5>feel
+ </c>
+
+00:01:35.130 --> 00:01:38.060 align:start position:0%
+<c.colorE5E5E5>feel
+your<00:01:36.000><c> English</c><00:01:36.329><c> is</c><00:01:36.630><c> coming</c><00:01:37.290><c> do</c><00:01:37.619><c> you</c><00:01:37.680><c> feel</c><00:01:37.950><c> like</c></c>
+
+00:01:38.060 --> 00:01:38.070 align:start position:0%
+your<c.colorE5E5E5> English is coming do you feel like
+ </c>
+
+00:01:38.070 --> 00:01:40.789 align:start position:0%
+your<c.colorE5E5E5> English is coming do you feel like
+you</c><c.colorCCCCCC><00:01:38.250><c> are</c><00:01:38.340><c> learning</c><00:01:38.549><c> English</c><00:01:38.790><c> fast</c><00:01:39.270><c> or</c><00:01:39.930><c> slow</c></c><c.colorE5E5E5><00:01:40.380><c> or</c></c>
+
+00:01:40.789 --> 00:01:40.799 align:start position:0%
+you<c.colorCCCCCC> are learning English fast or slow</c><c.colorE5E5E5> or
+ </c>
+
+00:01:40.799 --> 00:01:48.399 align:start position:0%
+you<c.colorCCCCCC> are learning English fast or slow</c><c.colorE5E5E5> or
+how<00:01:41.460><c> do</c><00:01:41.520><c> you</c><00:01:41.640><c> feel</c><00:01:41.939><c> about</c><00:01:41.970><c> your</c><00:01:42.390><c> English</c></c><c.colorCCCCCC><00:01:42.659><c> I</c><00:01:46.430><c> did</c></c>
+
+00:01:48.399 --> 00:01:48.409 align:start position:0%
+how do you<c.colorE5E5E5> feel about your English</c><c.colorCCCCCC> I did
+ </c>
+
+00:01:48.409 --> 00:01:53.899 align:start position:0%
+how do you<c.colorE5E5E5> feel about your English</c><c.colorCCCCCC> I did
+I'm<00:01:49.409><c> lying</c></c><c.colorE5E5E5><00:01:49.829><c> first</c></c><c.colorCCCCCC><00:01:50.549><c> okay</c><00:01:51.119><c> maybe</c><00:01:52.250><c> so</c><00:01:53.280><c> full</c></c>
+
+00:01:53.899 --> 00:01:53.909 align:start position:0%
+I'm lying<c.colorE5E5E5> first</c><c.colorCCCCCC> okay maybe so full
+ </c>
+
+00:01:53.909 --> 00:01:56.870 align:start position:0%
+I'm lying<c.colorE5E5E5> first</c><c.colorCCCCCC> okay maybe so full</c>
+<c.colorCCCCCC>English</c><c.colorE5E5E5><00:01:54.119><c> next</c><00:01:54.840><c> year</c><00:01:55.140><c> 2019</c><00:01:56.009><c> Mickey</c><00:01:56.610><c> all</c></c>
+
+00:01:56.870 --> 00:01:56.880 align:start position:0%
+<c.colorCCCCCC>English</c><c.colorE5E5E5> next year 2019 Mickey all
+ </c>
+
+00:01:56.880 --> 00:02:03.380 align:start position:0%
+<c.colorCCCCCC>English</c><c.colorE5E5E5> next year 2019 Mickey all
+English<00:01:57.920><c> yes</c><00:01:58.920><c> movie</c><00:01:59.219><c> I</c><00:01:59.310><c> can</c><00:01:59.579><c> do</c><00:01:59.790><c> okay</c></c><c.colorCCCCCC><00:02:02.329><c> okay</c><00:02:03.329><c> so</c></c>
+
+00:02:03.380 --> 00:02:03.390 align:start position:0%
+English<c.colorE5E5E5> yes movie I can do okay</c><c.colorCCCCCC> okay so
+ </c>
+
+00:02:03.390 --> 00:02:07.399 align:start position:0%
+English<c.colorE5E5E5> yes movie I can do okay</c><c.colorCCCCCC> okay so
+playoffs<00:02:04.380><c> for</c><00:02:04.680><c> golden</c><00:02:04.979><c> Guardians</c><00:02:06.020><c> what</c><00:02:07.020><c> do</c></c>
+
+00:02:07.399 --> 00:02:07.409 align:start position:0%
+playoffs for golden Guardians<c.colorCCCCCC> what do
+ </c>
+
+00:02:07.409 --> 00:02:09.710 align:start position:0%
+playoffs for golden Guardians<c.colorCCCCCC> what do
+you<00:02:07.500><c> think</c><00:02:07.829><c> the</c><00:02:08.009><c> team</c><00:02:08.220><c> has</c></c><c.colorE5E5E5><00:02:08.250><c> to</c><00:02:08.789><c> fix</c><00:02:09.149><c> what</c></c>
+
+00:02:09.710 --> 00:02:09.720 align:start position:0%
+you think the team has<c.colorE5E5E5> to fix what
+ </c>
+
+00:02:09.720 --> 00:02:11.780 align:start position:0%
+you think the team has<c.colorE5E5E5> to fix what
+should<00:02:09.959><c> the</c><00:02:10.050><c> team</c><00:02:10.229><c> learn</c><00:02:10.500><c> more</c></c><c.colorCCCCCC><00:02:10.800><c> of</c></c>
+
+00:02:11.780 --> 00:02:11.790 align:start position:0%
+should the team learn more<c.colorCCCCCC> of
+ </c>
+
+00:02:11.790 --> 00:02:18.229 align:start position:0%
+should the team learn more<c.colorCCCCCC> of
+we<00:02:12.510><c> have</c><00:02:12.840><c> to</c><00:02:13.019><c> communicate</c><00:02:15.019><c> well</c><00:02:16.970><c> then</c><00:02:17.970><c> now</c></c>
+
+00:02:18.229 --> 00:02:18.239 align:start position:0%
+we have to communicate<c.colorCCCCCC> well then now
+ </c>
+
+00:02:18.239 --> 00:02:19.399 align:start position:0%
+we have to communicate<c.colorCCCCCC> well then now</c>
+<c.colorE5E5E5>okay<00:02:18.810><c> yeah</c></c>
+
+00:02:19.399 --> 00:02:19.409 align:start position:0%
+<c.colorE5E5E5>okay yeah
+ </c>
+
+00:02:19.409 --> 00:02:23.229 align:start position:0%
+<c.colorE5E5E5>okay yeah
+who<00:02:20.040><c> is</c><00:02:20.250><c> the</c></c><c.colorCCCCCC><00:02:20.970><c> shot-caller</c></c><c.colorE5E5E5><00:02:21.510><c> who</c><00:02:22.019><c> makes</c><00:02:22.560><c> calls</c><00:02:22.890><c> I</c></c>
+
+00:02:23.229 --> 00:02:23.239 align:start position:0%
+who is the<c.colorCCCCCC> shot-caller</c><c.colorE5E5E5> who makes calls I
+ </c>
+
+00:02:23.239 --> 00:02:31.150 align:start position:0%
+who is the<c.colorCCCCCC> shot-caller</c><c.colorE5E5E5> who makes calls I
+think<00:02:24.239><c> my</c><00:02:24.810><c> team</c><00:02:24.870><c> or</c><00:02:25.379><c> just</c><00:02:27.890><c> speak</c></c><c.colorCCCCCC><00:02:28.890><c> very</c></c>
+
+00:02:31.150 --> 00:02:31.160 align:start position:0%
+think my team<c.colorE5E5E5> or just speak</c><c.colorCCCCCC> very
+ </c>
+
+00:02:31.160 --> 00:02:35.089 align:start position:0%
+think my team<c.colorE5E5E5> or just speak</c><c.colorCCCCCC> very
+everyone<00:02:32.160><c> everyone</c><00:02:33.110><c> is</c><00:02:34.110><c> that</c><00:02:34.440><c> bad</c></c>
+
+00:02:35.089 --> 00:02:35.099 align:start position:0%
+everyone everyone is that bad
+ 
+
+00:02:35.099 --> 00:02:37.520 align:start position:0%
+everyone everyone is that bad
+should<00:02:35.760><c> there</c><00:02:35.940><c> be</c><c.colorE5E5E5><00:02:35.970><c> is</c><00:02:36.330><c> it</c><00:02:36.540><c> too</c><00:02:36.870><c> much</c></c><c.colorCCCCCC><00:02:37.319><c> shot</c></c>
+
+00:02:37.520 --> 00:02:37.530 align:start position:0%
+should there be<c.colorE5E5E5> is it too much</c><c.colorCCCCCC> shot
+ </c>
+
+00:02:37.530 --> 00:02:42.440 align:start position:0%
+should there be<c.colorE5E5E5> is it too much</c><c.colorCCCCCC> shot
+calling<00:02:39.829><c> so</c></c><c.colorE5E5E5><00:02:40.829><c> everyone</c><00:02:41.489><c> everyone</c><00:02:42.060><c> can</c></c><c.colorCCCCCC><00:02:42.090><c> talk</c></c>
+
+00:02:42.440 --> 00:02:42.450 align:start position:0%
+<c.colorCCCCCC>calling so</c><c.colorE5E5E5> everyone everyone can</c><c.colorCCCCCC> talk
+ </c>
+
+00:02:42.450 --> 00:02:45.559 align:start position:0%
+<c.colorCCCCCC>calling so</c><c.colorE5E5E5> everyone everyone can</c><c.colorCCCCCC> talk
+and<00:02:42.780><c> it's</c></c><c.colorE5E5E5><00:02:42.959><c> okay</c><00:02:43.319><c> yeah</c><00:02:44.299><c> very</c></c><c.colorCCCCCC><00:02:45.299><c> good</c></c>
+
+00:02:45.559 --> 00:02:45.569 align:start position:0%
+and it's<c.colorE5E5E5> okay yeah very</c><c.colorCCCCCC> good
+ </c>
+
+00:02:45.569 --> 00:02:49.009 align:start position:0%
+and it's<c.colorE5E5E5> okay yeah very</c><c.colorCCCCCC> good</c>
+<c.colorE5E5E5>do<00:02:46.379><c> you</c><00:02:46.500><c> like</c><00:02:46.940><c> golden</c><00:02:47.940><c> Guardians</c><00:02:48.360><c> or</c><00:02:48.660><c> what</c></c>
+
+00:02:49.009 --> 00:02:49.019 align:start position:0%
+<c.colorE5E5E5>do you like golden Guardians or what
+ </c>
+
+00:02:49.019 --> 00:02:52.160 align:start position:0%
+<c.colorE5E5E5>do you like golden Guardians or what
+what<00:02:49.829><c> do</c><00:02:50.010><c> you</c><00:02:50.129><c> like</c><00:02:50.370><c> about</c><00:02:50.400><c> :</c><00:02:51.120><c> Guardians</c></c><c.colorCCCCCC><00:02:51.510><c> is</c><00:02:51.750><c> it</c></c>
+
+00:02:52.160 --> 00:02:52.170 align:start position:0%
+<c.colorE5E5E5>what do you like about : Guardians</c><c.colorCCCCCC> is it
+ </c>
+
+00:02:52.170 --> 00:02:54.680 align:start position:0%
+<c.colorE5E5E5>what do you like about : Guardians</c><c.colorCCCCCC> is it
+do<00:02:52.799><c> you</c></c><c.colorE5E5E5><00:02:52.829><c> like</c><00:02:53.010><c> living</c><00:02:53.280><c> with</c><00:02:53.579><c> them</c><00:02:53.819><c> do</c><00:02:54.450><c> you</c><00:02:54.510><c> like</c></c>
+
+00:02:54.680 --> 00:02:54.690 align:start position:0%
+do you<c.colorE5E5E5> like living with them do you like
+ </c>
+
+00:02:54.690 --> 00:02:57.229 align:start position:0%
+do you<c.colorE5E5E5> like living with them do you like
+the<00:02:54.840><c> players</c></c><c.colorCCCCCC><00:02:55.640><c> what</c><00:02:56.640><c> do</c><00:02:56.970><c> you</c><00:02:57.060><c> like</c><00:02:57.209><c> about</c></c>
+
+00:02:57.229 --> 00:02:57.239 align:start position:0%
+the players<c.colorCCCCCC> what do you like about
+ </c>
+
+00:02:57.239 --> 00:02:58.339 align:start position:0%
+the players<c.colorCCCCCC> what do you like about
+golden<00:02:57.810><c> Guardians</c></c>
+
+00:02:58.339 --> 00:02:58.349 align:start position:0%
+golden Guardians
+ 
+
+00:02:58.349 --> 00:03:02.000 align:start position:0%
+golden Guardians
+<c.colorCCCCCC>Eric<00:02:59.340><c> golden</c><00:02:59.790><c> God's</c><00:03:00.000><c> house</c><00:03:00.540><c> because</c><00:03:01.049><c> house</c><00:03:01.799><c> is</c></c>
+
+00:03:02.000 --> 00:03:02.010 align:start position:0%
+<c.colorCCCCCC>Eric golden God's house because house is
+ </c>
+
+00:03:02.010 --> 00:03:06.140 align:start position:0%
+<c.colorCCCCCC>Eric golden God's house because house is
+baby</c><c.colorE5E5E5><00:03:02.519><c> and</c><00:03:03.209><c> I</c><00:03:03.900><c> like</c></c><c.colorCCCCCC><00:03:04.769><c> teammate</c></c><c.colorE5E5E5><00:03:05.489><c> and</c><00:03:05.790><c> course</c></c>
+
+00:03:06.140 --> 00:03:06.150 align:start position:0%
+baby<c.colorE5E5E5> and I like</c><c.colorCCCCCC> teammate</c><c.colorE5E5E5> and course
+ </c>
+
+00:03:06.150 --> 00:03:10.520 align:start position:0%
+baby<c.colorE5E5E5> and I like</c><c.colorCCCCCC> teammate</c><c.colorE5E5E5> and course
+because<00:03:06.920><c> they</c><00:03:07.920><c> are</c><00:03:08.099><c> kind</c><00:03:08.459><c> to</c><00:03:08.609><c> me</c><00:03:08.940><c> okay</c><00:03:09.420><c> do</c><00:03:10.379><c> you</c></c>
+
+00:03:10.520 --> 00:03:10.530 align:start position:0%
+because they<c.colorE5E5E5> are kind to me okay do you
+ </c>
+
+00:03:10.530 --> 00:03:12.289 align:start position:0%
+because they<c.colorE5E5E5> are kind to me okay do you
+have<00:03:10.680><c> your</c><00:03:10.950><c> own</c><00:03:11.099><c> room</c><00:03:11.370><c> at</c><00:03:11.670><c> the</c><00:03:12.000><c> golden</c></c>
+
+00:03:12.289 --> 00:03:12.299 align:start position:0%
+have<c.colorE5E5E5> your own room at the golden
+ </c>
+
+00:03:12.299 --> 00:03:17.059 align:start position:0%
+have<c.colorE5E5E5> your own room at the golden
+Guardians<00:03:12.629><c> house</c><00:03:15.079><c> is</c><00:03:16.079><c> there</c><00:03:16.319><c> is</c><00:03:16.470><c> there</c><00:03:16.799><c> out</c><00:03:17.010><c> of</c></c>
+
+00:03:17.059 --> 00:03:17.069 align:start position:0%
+Guardians house is there is there out of
+ 
+
+00:03:17.069 --> 00:03:20.990 align:start position:0%
+Guardians house is there is there out of
+<c.colorE5E5E5>any<00:03:17.819><c> of</c><00:03:17.970><c> the</c><00:03:18.120><c> four</c><00:03:18.419><c> players</c></c><c.colorCCCCCC><00:03:19.370><c> do</c><00:03:20.370><c> you</c><00:03:20.519><c> talk</c><00:03:20.970><c> to</c></c>
+
+00:03:20.990 --> 00:03:21.000 align:start position:0%
+<c.colorE5E5E5>any of the four players</c><c.colorCCCCCC> do you talk to
+ </c>
+
+00:03:21.000 --> 00:03:23.780 align:start position:0%
+<c.colorE5E5E5>any of the four players</c><c.colorCCCCCC> do you talk to</c>
+<c.colorCCCCCC>any</c><c.colorE5E5E5><00:03:21.419><c> of</c><00:03:21.569><c> the</c><00:03:21.720><c> pro</c><00:03:21.900><c> players</c><00:03:22.169><c> do</c><00:03:22.500><c> you</c><00:03:22.620><c> spend</c></c><c.colorCCCCCC><00:03:23.519><c> time</c></c>
+
+00:03:23.780 --> 00:03:23.790 align:start position:0%
+<c.colorCCCCCC>any</c><c.colorE5E5E5> of the pro players do you spend</c><c.colorCCCCCC> time
+ </c>
+
+00:03:23.790 --> 00:03:26.089 align:start position:0%
+<c.colorCCCCCC>any</c><c.colorE5E5E5> of the pro players do you spend</c><c.colorCCCCCC> time
+with<00:03:23.910><c> them</c><00:03:24.120><c> or</c><00:03:24.359><c> are</c><00:03:25.079><c> you</c><00:03:25.200><c> friends</c><00:03:25.530><c> with</c><00:03:25.560><c> any</c></c><c.colorE5E5E5><00:03:25.919><c> of</c></c>
+
+00:03:26.089 --> 00:03:26.099 align:start position:0%
+<c.colorCCCCCC>with them or are you friends with any</c><c.colorE5E5E5> of
+ </c>
+
+00:03:26.099 --> 00:03:37.250 align:start position:0%
+<c.colorCCCCCC>with them or are you friends with any</c><c.colorE5E5E5> of
+the<00:03:26.220><c> other</c><00:03:26.459><c> four</c><00:03:26.910><c> players</c><00:03:35.750><c> is</c><00:03:36.750><c> there</c><00:03:37.049><c> anything</c></c>
+
+00:03:37.250 --> 00:03:37.260 align:start position:0%
+the other four players<c.colorE5E5E5> is there anything
+ </c>
+
+00:03:37.260 --> 00:03:39.490 align:start position:0%
+the other four players<c.colorE5E5E5> is there anything
+that<00:03:37.440><c> you</c><00:03:37.769><c> would</c><00:03:37.950><c> say</c><00:03:38.160><c> to</c><00:03:38.609><c> any</c><00:03:38.880><c> of</c><00:03:39.030><c> the</c><00:03:39.150><c> fans</c></c>
+
+00:03:39.490 --> 00:03:39.500 align:start position:0%
+that you<c.colorE5E5E5> would say to any of the fans
+ </c>
+
+00:03:39.500 --> 00:03:42.379 align:start position:0%
+that you<c.colorE5E5E5> would say to any of the fans
+fans<00:03:40.500><c> out</c><00:03:40.709><c> there</c><00:03:40.739><c> of</c><00:03:41.130><c> Mickey</c><00:03:41.790><c> or</c><00:03:42.000><c> golden</c></c>
+
+00:03:42.379 --> 00:03:42.389 align:start position:0%
+fans out there of<c.colorE5E5E5> Mickey or golden
+ </c>
+
+00:03:42.389 --> 00:03:44.740 align:start position:0%
+fans out there of<c.colorE5E5E5> Mickey or golden
+Guardians<00:03:42.780><c> anything</c><00:03:43.349><c> you</c><00:03:43.440><c> would</c><00:03:43.590><c> say</c></c><c.colorCCCCCC><00:03:43.769><c> oh</c></c>
+
+00:03:44.740 --> 00:03:44.750 align:start position:0%
+Guardians anything you would say<c.colorCCCCCC> oh
+ </c>
+
+00:03:44.750 --> 00:03:48.089 align:start position:0%
+Guardians anything you would say<c.colorCCCCCC> oh</c>
+<c.colorE5E5E5>think<00:03:45.750><c> thank</c><00:03:46.290><c> you</c><00:03:46.440><c> for</c></c>
+
+00:03:48.089 --> 00:03:48.099 align:start position:0%
+<c.colorE5E5E5>think thank you for
+ </c>
+
+00:03:48.099 --> 00:03:52.020 align:start position:0%
+<c.colorE5E5E5>think thank you for
+watching<00:03:49.079><c> my</c><00:03:50.079><c> play</c><00:03:50.349><c> okay</c><00:03:51.129><c> thank</c><00:03:51.640><c> you</c><00:03:51.730><c> to</c><00:03:51.879><c> my</c></c>
+
+00:03:52.020 --> 00:03:52.030 align:start position:0%
+watching my play okay<c.colorE5E5E5> thank you to my
+ </c>
+
+00:03:52.030 --> 00:03:55.020 align:start position:0%
+watching my play okay<c.colorE5E5E5> thank you to my</c>
+<c.colorCCCCCC>friend<00:03:52.439><c> there</c><00:03:53.439><c> we</c><00:03:53.530><c> go</c></c><c.colorE5E5E5><00:03:53.709><c> thank</c></c><c.colorCCCCCC><00:03:54.280><c> you</c><00:03:54.370><c> very</c><00:03:54.579><c> much</c></c>
+
+00:03:55.020 --> 00:03:55.030 align:start position:0%
+<c.colorCCCCCC>friend there we go</c><c.colorE5E5E5> thank</c><c.colorCCCCCC> you very much
+ </c>
+
+00:03:55.030 --> 00:03:56.670 align:start position:0%
+<c.colorCCCCCC>friend there we go</c><c.colorE5E5E5> thank</c><c.colorCCCCCC> you very much
+Mickey<00:03:55.329><c> for</c><00:03:55.629><c> the</c></c><c.colorE5E5E5><00:03:55.749><c> interview</c><00:03:56.170><c> thank</c><00:03:56.469><c> you</c><00:03:56.530><c> so</c></c>
+
+00:03:56.670 --> 00:03:56.680 align:start position:0%
+<c.colorCCCCCC>Mickey for the</c><c.colorE5E5E5> interview thank you so
+ </c>
+
+00:03:56.680 --> 00:03:58.800 align:start position:0%
+<c.colorCCCCCC>Mickey for the</c><c.colorE5E5E5> interview thank you so
+much<00:03:56.829><c> congratulations</c></c><c.colorCCCCCC><00:03:57.040><c> on</c><00:03:57.730><c> the</c><00:03:57.819><c> win</c><00:03:58.030><c> for</c><00:03:58.659><c> when</c></c>
+
+00:03:58.800 --> 00:03:58.810 align:start position:0%
+much congratulations<c.colorCCCCCC> on the win for when
+ </c>
+
+00:03:58.810 --> 00:03:59.759 align:start position:0%
+much congratulations<c.colorCCCCCC> on the win for when
+else<00:03:58.959><c> you</c><00:03:59.049><c> can</c><00:03:59.170><c> check</c><00:03:59.290><c> out</c><00:03:59.409><c> the</c><00:03:59.469><c> rest</c><00:03:59.620><c> of</c></c><c.colorE5E5E5><00:03:59.709><c> my</c></c>
+
+00:03:59.759 --> 00:03:59.769 align:start position:0%
+else you can check out the rest of<c.colorE5E5E5> my
+ </c>
+
+00:03:59.769 --> 00:04:01.229 align:start position:0%
+else you can check out the rest of<c.colorE5E5E5> my
+coverage<00:04:00.069><c> of</c><00:04:00.159><c> all</c><00:04:00.370><c> things</c><00:04:00.639><c> eSports</c><00:04:01.030><c> right</c></c>
+
+00:04:01.229 --> 00:04:01.239 align:start position:0%
+coverage<c.colorE5E5E5> of all things eSports right
+ </c>
+
+00:04:01.239 --> 00:04:02.780 align:start position:0%
+coverage<c.colorE5E5E5> of all things eSports right
+here<00:04:01.450><c> on</c><00:04:01.599><c> my</c></c><c.colorCCCCCC><00:04:01.689><c> youtube</c><00:04:01.959><c> channel</c></c>
+
+00:04:02.780 --> 00:04:02.790 align:start position:0%
+here on my<c.colorCCCCCC> youtube channel
+ </c>
+
+00:04:02.790 --> 00:04:05.520 align:start position:0%
+here on my<c.colorCCCCCC> youtube channel
+it's<00:04:03.790><c> nice</c><00:04:04.030><c> thing</c><00:04:04.299><c> that</c></c><c.colorE5E5E5><00:04:04.329><c> Omni</c><00:04:04.840><c> slash</c><00:04:05.109><c> is</c><00:04:05.349><c> still</c></c>
+
+00:04:05.520 --> 00:04:05.530 align:start position:0%
+it's nice thing that<c.colorE5E5E5> Omni slash is still
+ </c>
+
+00:04:05.530 --> 00:04:06.959 align:start position:0%
+it's nice thing that<c.colorE5E5E5> Omni slash is still
+written<00:04:05.680><c> on</c><00:04:05.889><c> this</c><00:04:06.010><c> microphone</c><00:04:06.400><c> because</c><00:04:06.760><c> it</c></c>
+
+00:04:06.959 --> 00:04:06.969 align:start position:0%
+written<c.colorE5E5E5> on this microphone because it
+ </c>
+
+00:04:06.969 --> 00:04:08.220 align:start position:0%
+written<c.colorE5E5E5> on this microphone because it
+means<00:04:07.120><c> that</c><00:04:07.299><c> at</c><00:04:07.389><c> least</c><00:04:07.420><c> someone's</c><00:04:07.930><c> giving</c></c>
+
+00:04:08.220 --> 00:04:08.230 align:start position:0%
+means<c.colorE5E5E5> that at least someone's giving
+ </c>
+
+00:04:08.230 --> 00:04:10.860 align:start position:0%
+means<c.colorE5E5E5> that at least someone's giving
+Travis<00:04:08.769><c> money</c><00:04:09.010><c> to</c><00:04:09.609><c> for</c><00:04:10.090><c> things</c><00:04:10.389><c> like</c><00:04:10.569><c> food</c></c>
+
+00:04:10.860 --> 00:04:10.870 align:start position:0%
+Travis money to<c.colorE5E5E5> for things like food
+ </c>
+
+00:04:10.870 --> 00:04:13.979 align:start position:0%
+Travis money to<c.colorE5E5E5> for things like food
+rent</c><c.colorCCCCCC><00:04:11.379><c> mainly</c></c><c.colorE5E5E5><00:04:12.040><c> to</c></c><c.colorCCCCCC><00:04:12.159><c> keep</c><00:04:12.340><c> them</c><00:04:12.549><c> off</c><00:04:13.209><c> of</c><00:04:13.480><c> my</c><00:04:13.629><c> couch</c></c>
+
+00:04:13.979 --> 00:04:13.989 align:start position:0%
+rent<c.colorCCCCCC> mainly</c><c.colorE5E5E5> to</c><c.colorCCCCCC> keep them off of my couch
+ </c>
+
+00:04:13.989 --> 00:04:17.219 align:start position:0%
+rent<c.colorCCCCCC> mainly</c><c.colorE5E5E5> to</c><c.colorCCCCCC> keep them off of my couch
+and</c><c.colorE5E5E5><00:04:14.260><c> out</c><00:04:14.530><c> of</c><00:04:14.799><c> my</c><00:04:14.950><c> life</c></c><c.colorCCCCCC><00:04:15.189><c> so</c></c><c.colorE5E5E5><00:04:15.609><c> please</c><00:04:16.509><c> continue</c><00:04:16.900><c> to</c></c>
+
+00:04:17.219 --> 00:04:17.229 align:start position:0%
+and<c.colorE5E5E5> out of my life</c><c.colorCCCCCC> so</c><c.colorE5E5E5> please continue to
+ </c>
+
+00:04:17.229 --> 00:04:18.689 align:start position:0%
+and<c.colorE5E5E5> out of my life</c><c.colorCCCCCC> so</c><c.colorE5E5E5> please continue to
+help<00:04:17.380><c> support</c><00:04:17.769><c> him</c></c><c.colorCCCCCC><00:04:17.889><c> in</c><00:04:18.009><c> doing</c></c><c.colorE5E5E5><00:04:18.160><c> that</c><00:04:18.370><c> like</c></c>
+
+00:04:18.689 --> 00:04:18.699 align:start position:0%
+help<c.colorE5E5E5> support him</c><c.colorCCCCCC> in doing</c><c.colorE5E5E5> that like
+ </c>
+
+00:04:18.699 --> 00:04:20.759 align:start position:0%
+help<c.colorE5E5E5> support him</c><c.colorCCCCCC> in doing</c><c.colorE5E5E5> that like
+subscribe<00:04:19.209><c> comment</c><00:04:19.599><c> do</c><00:04:19.930><c> whatever</c><00:04:20.049><c> it</c><00:04:20.349><c> is</c><00:04:20.470><c> that</c></c>
+
+00:04:20.759 --> 00:04:20.769 align:start position:0%
+subscribe comment do whatever<c.colorE5E5E5> it is that
+ </c>
+
+00:04:20.769 --> 00:04:24.599 align:start position:0%
+subscribe comment do whatever<c.colorE5E5E5> it is that
+he<00:04:21.250><c> needs</c></c><c.colorCCCCCC><00:04:21.280><c> you</c><00:04:21.519><c> to</c><00:04:21.639><c> do</c><00:04:21.789><c> support</c></c><c.colorE5E5E5><00:04:22.419><c> him</c></c>
+
