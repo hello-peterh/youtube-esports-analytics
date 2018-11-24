@@ -108,3 +108,15 @@ In the eSports scene, the usually the people with most followers are influencers
 III. __Be wary of large Corporations; stay true to the brand__
 <br>
 eSports is massive industry, with large companies taking over the space rapidly. As a small freelancer, if Travis is unable to produce content that meets the production value, speed, and scale of these large companies, Travis will be swallowed. The most unique selling point of Travis' product is the personal one-on-one relationship he has with his interviewees. Maintaining the fun and light-hearted atmosphere where professional corporations cannot will be a strong value proposition for Travis.
+
+## 5.0 Work in Progress
+
+I. __Analyzing the polarity of titles__
+<br>
+i.e. consider which words correlate with the most views, do length of titles correlate with viewership, possibly incorporating machine learning to generate the most popular titles
+
+II. __Analyze thumbnails__
+<br>
+Using Python OpenCV package to quantify images (i.e. which colours are the most popular, does simiplicity of an image correlate with more views or vice versa, does consistency of colours correlate with more views)
+
+III. __Re-do entire analysisw with other channels and evaluate findings__
