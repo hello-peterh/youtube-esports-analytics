@@ -13,9 +13,10 @@ Please open the travis_analytics.ipynb for the entire analysis.
 
 ## 2.0 Insfrastructure and Approach
 
-The project wouldn't have been possible without the Google Cloud Platform.
+This project was built on top of Google Cloud Platform's Compute Engine.
 
 __Overview__
+<br>
 <img src="images/gafford_pipeline.png" width="50%">
 
 ### 2.1 Part I: Transcribe Video Content using Google's Speech to Text API
